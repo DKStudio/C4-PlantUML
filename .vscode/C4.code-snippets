@@ -1,4 +1,36 @@
 {
+	"C4_LAYOUT_TOP_DOWN": {
+		"scope": "diagram",
+		"prefix": "LAYOUT_TOP_DOWN",
+		"body": [
+			"LAYOUT_TOP_DOWN()"
+		],
+		"description": "Layout top to down"
+	},
+	"C4_LAYOUT_LEFT_RIGHT": {
+		"scope": "diagram",
+		"prefix": "LAYOUT_LEFT_RIGHT",
+		"body": [
+			"LAYOUT_LEFT_RIGHT()"
+		],
+		"description": "Layout left to right"
+	},
+	"C4_LAYOUT_WITH_LEGEND": {
+		"scope": "diagram",
+		"prefix": "LAYOUT_WITH_LEGEND",
+		"body": [
+			"LAYOUT_WITH_LEGEND()"
+		],
+		"description": "Layout with legend"
+	},
+	"C4_LAYOUT_AS_SKETCH": {
+		"scope": "diagram",
+		"prefix": "LAYOUT_AS_SKETCH",
+		"body": [
+			"LAYOUT_AS_SKETCH()"
+		],
+		"description": "Layout as sketch"
+	},
 	"C4_Person": {
 		"scope": "diagram",
 		"prefix": "Person",
