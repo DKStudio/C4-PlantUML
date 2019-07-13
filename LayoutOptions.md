@@ -12,7 +12,7 @@ With the two macros `LAYOUT_TOP_DOWN()` and `LAYOUT_LEFT_RIGHT()` it is possible
 
 ```csharp
 @startuml LAYOUT_TOP_DOWN Sample
-!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
+!includeurl https://raw.githubusercontent.com/DKStudio/C4-PlantUML/master/C4_Container.puml
 
 /' Not needed because this is the default '/
 LAYOUT_TOP_DOWN()
@@ -34,7 +34,7 @@ Using `LAYOUT_LEFT_RIGHT()`
 
 ```csharp
 @startuml LAYOUT_LEFT_RIGHT Sample
-!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
+https://raw.githubusercontent.com/DKStudio/C4-PlantUML/master/C4_Container.puml
 
 LAYOUT_LEFT_RIGHT()
 

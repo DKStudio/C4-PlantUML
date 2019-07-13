@@ -1,6 +1,8 @@
-!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4.puml
-' uncomment the following line and comment the first to use locally
-' !include C4.puml
+!ifdef NetInclude
+    !includeurl https://raw.githubusercontent.com/DKStudio/C4-PlantUML/master/C4.puml
+!else
+    !includeurl ./C4.puml
+!endif
 
 ' Scope: A single software system.
 ' Primary elements: The software system in scope.
